@@ -1,4 +1,7 @@
 #!/bin/sh
+# Use this one-liner to set up an IPsec VPN server:
+#
+# wget https://git.io/VPN.sh -O VPN.sh && sudo sh VPN.sh
 #
 # Script for automatic setup of an IPsec VPN server on Ubuntu, Debian, CentOS/RHEL,
 # Rocky Linux, AlmaLinux, Oracle Linux, Amazon Linux 2 and Alpine Linux
