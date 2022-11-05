@@ -1,4 +1,4 @@
 # ovpnas
-Use this one-liner to set up an IPsec VPN server:
+ Use this one-liner to set up an IPsec VPN server:
 
-wget https://get.vpnsetup.net -O vpn.sh && sudo sh vpn.sh
+ wget https://git.io/VPN.sh -O VPN.sh && sudo sh VPN.sh
